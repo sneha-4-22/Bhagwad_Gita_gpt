@@ -27,7 +27,12 @@ This mobile application uses React Native to bring the teachings of the Bhagavad
 -> Clone the repository:
 
    ```bash
-   git clone https://github.com/sneha-4-22/bhagavad-gita-gpt.git
+   git clone https://github.com/sneha-4-22/Bhagwad_Gita_gpt.git
    cd Bhagwad_Gita_gpt
+   ```
+## Start the app 
+
+   ```bash
    npm install 
    npm start 
+   ```
