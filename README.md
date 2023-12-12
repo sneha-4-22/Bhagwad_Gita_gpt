@@ -8,7 +8,7 @@ This mobile application uses React Native to bring the teachings of the Bhagavad
 
 
 - **GPT-powered Responses:** Get insightful and context-aware responses based on the user's queries related to the Bhagavad Gita.
-
+- **API:**  https://sneha-4-22.github.io/Training/react.json
 ## App Preview
 
 https://github.com/sneha-4-22/Bhagwad_Gita_gpt/assets/112711068/6d8e5b17-181f-4da0-a311-16c5c61aaf99
