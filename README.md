@@ -1,5 +1,5 @@
 # Bhagavad Gita GPT App
-
+# Bhagavad Gita GPT App
 ## Overview
 
 This mobile application uses React Native to bring the teachings of the Bhagavad Gita to users with the help of GPT (Generative Pre-trained Transformer) technology. The app provides an interactive and user-friendly way to explore the profound wisdom of the Bhagavad Gita.
